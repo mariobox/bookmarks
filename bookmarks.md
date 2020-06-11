@@ -30,8 +30,6 @@
 
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
-[the-missing-link-an-introduction-to-web-development-and-programming-pdf (1).pdf](file:///C:/Users/Mario/Downloads/the-missing-link-an-introduction-to-web-development-and-programming-pdf%20(1).pdf)
-
 [Terry Morris: Web Design Best Practices Checklist](http://terrymorris.net/bestpractices/)
 
 [How to use manual partitioning during installation? - Ask Ubuntu](https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/343370#343370)
@@ -48,10 +46,6 @@
 
 [The Decentralized Web — MIT Digital Currency Initiative](https://dci.mit.edu/decentralizedweb)
 
-[GnuPG leaflet](https://download.fsfe.org/advocacy/promomaterial/Email-self-defense/gnupg-leaflet.en.pdf)
-
-[Beginners Guide to GnuPG](https://ubuntuforums.org/showthread.php?t=680292)
-
 [(92) Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
 
 [Thunderbird and Gmail | Thunderbird Help](https://support.mozilla.org/en-US/kb/thunderbird-and-gmail)
@@ -64,21 +58,13 @@
 
 [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
-[Canal STANLEY - YouTube](https://studio.youtube.com/channel/UCTCXLL6YkzrNXHjGAz2ee0g/videos?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Fmy_videos)
-
 [Best Coding Languages to Learn in 2019 – Hacker Noon](https://hackernoon.com/best-coding-languages-to-learn-in-2019-b49b49250a25)
 
 [Major cities of the world - Dataset - DataHub - Frictionless Data](https://datahub.io/core/world-cities)
 
-[React Autosuggest](http://react-autosuggest.js.org/)
-
-[ES6 in Action: Enhanced Object Literals — SitePoint](https://www.sitepoint.com/es6-enhanced-object-literals/)
-
 [What is SQLite? | Codecademy](https://www.codecademy.com/articles/what-is-sqlite)
 
 [Review SQL Commands | Codecademy](https://www.codecademy.com/paths/data-science/tracks/analyze-data-sql-go-off-platform/modules/analyze-data-sql-commands-review/articles/sql-commands)
-
-[NETGEAR N300 WiFi Range Extender Model WN3000RPv3 Quick Start Guide](http://www.downloads.netgear.com/files/GDC/WN3000RPV3/WN3000RPv3_QSG_17Aug2015.pdf)
 
 [Run Your Own Website | Hacker News](https://news.ycombinator.com/item?id=20362319)
 
@@ -244,8 +230,6 @@
 
 [ES5 vs ES6 ( With example code ) – codeburst](https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc)
 
-[Flavio Copes](https://flaviocopes.com/)
-
 [Modern JS with ES6](https://www.slideshare.net/KevinLangleyJr/modern-js-with-es6)
 
 [GitHub - aurelkurtula/basic-express-js-setup: Project supporting the tutorial](https://github.com/aurelkurtula/basic-express-js-setup)
@@ -294,6 +278,8 @@
 
 [What is the difference between window, screen, and document in Javascript? - Stack Overflow](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
 
+[ES6 in Action: Enhanced Object Literals — SitePoint](https://www.sitepoint.com/es6-enhanced-object-literals/)
+
 
 ## jQuery
 
@@ -325,6 +311,8 @@
 [How to Wipe the Hard Drive of a Windows Computer: Geek Squad – Best Buy](http://www.bestbuy.com/site/tech-tips/wipe-hard-drive/pcmcat748301880905.c?id=pcmcat748301880905)
 
 [How to buy a "Cheap" PC - G & G Computer Repair](http://www.greenthumbnsy.com/solutionguide.htm)
+
+[NETGEAR N300 WiFi Range Extender Model WN3000RPv3 Quick Start Guide](http://www.downloads.netgear.com/files/GDC/WN3000RPV3/WN3000RPv3_QSG_17Aug2015.pdf)
 
 
 ## React
@@ -358,6 +346,8 @@
 [Veggy - React Shopping Cart Demo](https://sivadass.github.io/react-shopping-cart/)
 
 [Deployment](https://create-react-app.dev/docs/deployment/#github-pages)
+
+[React Autosuggest](http://react-autosuggest.js.org/)
 
 
 ## Angular
@@ -444,6 +434,8 @@
 [nomasters](https://nomasters.io/)
 
 [Jacob Hall](https://jacobhall.net/)
+
+[Flavio Copes](https://flaviocopes.com/)
 
 
 ## Email
