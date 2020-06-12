@@ -14,6 +14,12 @@
 
 [How To Make Git Ask You SSH Key Passphrases Just Once](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 
+[Unlimited Scale and Free Web Hosting with GitHub Pages and Cloudflare | Toptal](https://www.toptal.com/github/unlimited-scale-web-hosting-github-pages-cloudflare)
+
+[Deploy to `gh-pages` from a `dist` folder on the master branch. Useful for use with [yeoman](http://yeoman.io). · GitHub](https://gist.github.com/cobyism/4730490)
+
+[How to fork your own repo on Github – Today I Learned… in Code](http://www.tilcode.com/fork-your-own-repo-on-github/)
+
 
 ## C
 
@@ -30,37 +36,15 @@
 
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
-[Terry Morris: Web Design Best Practices Checklist](http://terrymorris.net/bestpractices/)
-
-[How to use manual partitioning during installation? - Ask Ubuntu](https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/343370#343370)
-
-[Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
-
-[Python3 Tutorial: Dictionaries](https://www.python-course.eu/python3_dictionaries.php)
-
 [GitHub - karan/Projects: A list of practical projects that anyone can solve in any programming language.](https://github.com/karan/Projects#classes)
-
-[GitHub - facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
 
 [epicodus-lessons/address-book at fb1061dfa9615f3d7248c1990ced6c1e4dd9cc70](https://github.com/epicodus-lessons/address-book/tree/fb1061dfa9615f3d7248c1990ced6c1e4dd9cc70)
 
 [The Decentralized Web — MIT Digital Currency Initiative](https://dci.mit.edu/decentralizedweb)
 
-[(92) Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
-
-[Thunderbird and Gmail | Thunderbird Help](https://support.mozilla.org/en-US/kb/thunderbird-and-gmail)
-
 [https://www.indiebound.org](https://www.indiebound.org/)
 
-[André Staltz - An off-grid social network](https://staltz.com/an-off-grid-social-network.html)
-
-[The Basics of Package.json in Node.js and npm - NodeSource](https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/)
-
 [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-
-[Best Coding Languages to Learn in 2019 – Hacker Noon](https://hackernoon.com/best-coding-languages-to-learn-in-2019-b49b49250a25)
-
-[Major cities of the world - Dataset - DataHub - Frictionless Data](https://datahub.io/core/world-cities)
 
 [What is SQLite? | Codecademy](https://www.codecademy.com/articles/what-is-sqlite)
 
@@ -70,6 +54,10 @@
 
 [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
+[10 organizing tips for web developers - The Garage](https://www.godaddy.com/garage/webpro/development/10-organizing-tips-web-developers/)
+
+[domschiener/smart-plant-raspberry: Raspberry Pi Moisture Sensor with Panel](https://github.com/domschiener/smart-plant-raspberry)
+
 [your data | data.sivers.org](https://data.sivers.org/)
 
 
@@ -77,78 +65,14 @@
 
 [how to map a network drive to a folder - Google Search](https://www.google.com/?gws_rd=ssl#q=how+to+map+a+network+drive+to+a+folder&tbm=vid)
 
-[How do I put up a simple, static website? | DigitalOcean](https://www.digitalocean.com/community/questions/how-do-i-put-up-a-simple-static-website)
-
-[How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
-
-[How To Use Git Effectively | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
-
-[Park a domain registered with GoDaddy | Domains - GoDaddy Help US](https://www.godaddy.com/help/park-a-domain-registered-with-godaddy-23936)
-
-[10 organizing tips for web developers - The Garage](https://www.godaddy.com/garage/webpro/development/10-organizing-tips-web-developers/)
-
 [Logging In to a Remote System to Copy a File (sftp) - Managing Remote Systems in Oracle Solaris 11.1](https://docs.oracle.com/cd/E26502_01/html/E29001/remotehowtoaccess-14.html)
-
-[How to build and deploy static websites using NodeJS & Metalsmith – Node Web Apps](http://nodewebapps.com/2017/01/15/how-to-build-and-deploy-static-websites-using-metalsmith/)
-
-[How to Host a Node.js App on Digital Ocean ― Scotch](https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean)
-
-[How to Host a Node.js App on Digital Ocean ― Scotch](https://stackoverflow.com/questions/26863945/forever-for-nodejs-not-working-in-ubuntu-server)
-
-[Building a Website with Node.js and Express.js](https://www.lynda.com/Express-js-tutorials/Building-Website-Node-js-Express-js/502310-2.html#tab)
-
-[Creating a basic site with Node.js and Express | George Ornbo](https://shapeshed.com/creating-a-basic-site-with-node-and-express/#what-we-are-going-to-do)
-
-[How To Set Up Automatic Deployment with Git with a VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
-
-[Deploying a Node.js App to DigitalOcean with SSL](https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/)
-
-[React updating state in two input fields from form submission - Stack Overflow](https://stackoverflow.com/questions/41030025/react-updating-state-in-two-input-fields-from-form-submission)
-
-[How to add additional email addresses to your GPG identity (and a face pic) | Kate's Comment](https://www.katescomment.com/how-to-add-additional-email-addresses-to-your-gpg-identity/)
-
-[How To Set Up Let's Encrypt with Nginx Server Blocks on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
-
-[How To Add, Delete, and Grant Sudo Privileges to Users on a Debian VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-delete-and-grant-sudo-privileges-to-users-on-a-debian-vps)
 
 [Transfer bookmarks from Chrome to Firefox - Ask Ubuntu](https://askubuntu.com/questions/614805/transfer-bookmarks-from-chrome-to-firefox)
 
-[domschiener/smart-plant-raspberry: Raspberry Pi Moisture Sensor with Panel](https://github.com/domschiener/smart-plant-raspberry)
-
-[Fix “error: unknown filesystem. grub rescue” in Linux Mint & Ubuntu](https://www.easytechguides.com/error-unknown-filesystem-grub-rescue.html)
-
-[​How to upgrade from Ubuntu Linux 16.04 to 18.04 | ZDNet](https://www.zdnet.com/article/how-to-upgrade-from-ubuntu-linux-16-04-to-18-04/)
-
-[How To Create Shortcut Commands in the Terminal for your Mac!](https://codeburst.io/how-to-create-shortcut-commands-in-the-terminal-for-your-mac-9e016e25e4d7)
-
-[Dual Boot vs. Virtual Machine: Which One Is Right for You?](https://www.makeuseof.com/tag/dual-boot-vs-virtual-machine/)
-
-[How to Upload an SSH Public Key to an Existing Droplet :: DigitalOcean Product Documentation](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/to-existing-droplet/)
-
-[Digitally Signing and Encrypting Messages | How to | Mozilla Support](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages)
-
-[Create a bootable USB stick on Windows | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
-
-[Install Ubuntu desktop | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
-
-[Redirect www traffic to non www with ubuntu and nginx](https://medium.com/@kandros/redirect-www-traffic-to-non-www-with-ubuntu-and-nginx-9f05281ef944)
-
-[Custom domains on GitHub Pages gain support for HTTPS - The GitHub Blog](https://github.blog/2018-05-01-github-pages-custom-domains-https/)
-
-[Use your custom email domain with Gmail and GoDaddy for FREE.](https://medium.com/@kevinmonahan/use-your-custom-email-domain-with-gmail-and-godaddy-for-free-84ea8c5ea4ed)
-
-[How HTTPS Works: The Basics of Internet Security and Privacy](https://strongarm.io/blog/how-https-works/)
-
-[How to reset the NETGEAR EX7000 range extender to factory default settings | Answer | NETGEAR Support](https://kb.netgear.com/26082/How-to-reset-the-NETGEAR-EX7000-range-extender-to-factory-default-settings)
-
-[How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04)
-
-[Unlimited Scale and Free Web Hosting with GitHub Pages and Cloudflare | Toptal](https://www.toptal.com/github/unlimited-scale-web-hosting-github-pages-cloudflare)
-
-[Deploy to `gh-pages` from a `dist` folder on the master branch. Useful for use with [yeoman](http://yeoman.io). · GitHub](https://gist.github.com/cobyism/4730490)
-
 
 ## Styling
+
+[Terry Morris: Web Design Best Practices Checklist](http://terrymorris.net/bestpractices/)
 
 [CSS · Bootstrap](http://getbootstrap.com/css/)
 
@@ -166,8 +90,6 @@
 
 [Images · Bootstrap](http://v4-alpha.getbootstrap.com/content/images/)
 
-[slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
-
 [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 
 [Font Awesome, the iconic font and CSS toolkit](http://fontawesome.io/)
@@ -175,6 +97,8 @@
 [Font Mfizz - Vector Icons for Technology and Software Geeks](http://fizzed.com/oss/font-mfizz)
 
 [Hugo Themes | Portfolio](https://themes.gohugo.io/tags/portfolio/)
+
+[How to Style Web Forms](https://www.sitepoint.com/style-web-forms-css/)
 
 
 ## Image Editing
@@ -280,6 +204,16 @@
 
 [ES6 in Action: Enhanced Object Literals — SitePoint](https://www.sitepoint.com/es6-enhanced-object-literals/)
 
+[Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
+
+[The Basics of Package.json in Node.js and npm - NodeSource](https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/)
+
+[How to build and deploy static websites using NodeJS & Metalsmith – Node Web Apps](http://nodewebapps.com/2017/01/15/how-to-build-and-deploy-static-websites-using-metalsmith/)
+
+[Building a Website with Node.js and Express.js](https://www.lynda.com/Express-js-tutorials/Building-Website-Node-js-Express-js/502310-2.html#tab)
+
+[Creating a basic site with Node.js and Express | George Ornbo](https://shapeshed.com/creating-a-basic-site-with-node-and-express/#what-we-are-going-to-do)
+
 
 ## jQuery
 
@@ -300,10 +234,6 @@
 
 [www.pcmag.com/article2/0,2817,2404258,00.asp](http://www.pcmag.com/article2/0,2817,2404258,00.asp)
 
-[Inspiron 15 3541 Specifications](http://downloads.dell.com/Manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-3541-laptop_reference%20guide_en-us.pdf)
-
-[Inspiron 15 3541 Owner's Manual](http://downloads.dell.com/Manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-3541-laptop_owner%27s%20manual_en-us.pdf)
-
 [Novabench - Features](https://novabench.com/features)
 
 [Satellite C55-B5296 Support | Toshiba](http://support.toshiba.com/support/modelHome?freeText=1200008396)
@@ -313,6 +243,8 @@
 [How to buy a "Cheap" PC - G & G Computer Repair](http://www.greenthumbnsy.com/solutionguide.htm)
 
 [NETGEAR N300 WiFi Range Extender Model WN3000RPv3 Quick Start Guide](http://www.downloads.netgear.com/files/GDC/WN3000RPV3/WN3000RPv3_QSG_17Aug2015.pdf)
+
+[How to reset the NETGEAR EX7000 range extender to factory default settings | Answer | NETGEAR Support](https://kb.netgear.com/26082/How-to-reset-the-NETGEAR-EX7000-range-extender-to-factory-default-settings)
 
 
 ## React
@@ -349,14 +281,14 @@
 
 [React Autosuggest](http://react-autosuggest.js.org/)
 
+[GitHub - facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
+
+[React updating state in two input fields from form submission - Stack Overflow](https://stackoverflow.com/questions/41030025/react-updating-state-in-two-input-fields-from-form-submission)
+
 
 ## Angular
 
 [Single Page Web Applications with AngularJS - Johns Hopkins University | Coursera](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
-
-[AngularJS Tutorial - Building a Web App in 5 minutes](https://www.airpair.com/angularjs/building-angularjs-app-tutorial)
-
-[GitHub - airpair/T0021-airpair-angularjs-tutorial](https://github.com/airpair/T0021-airpair-angularjs-tutorial)
 
 [AngularJS Tutorial - Building a Web App in 5 minutes](https://www.airpair.com/angularjs/building-angularjs-app-tutorial)
 
@@ -388,13 +320,11 @@
 
 [How to Wipe the Hard Drive of a Windows Computer: Geek Squad – Best Buy](http://www.bestbuy.com/site/tech-tips/wipe-hard-drive/pcmcat748301880905.c?id=pcmcat748301880905)
 
-[How to create a bootable USB stick on Windows | Ubuntu](https://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
-
-[How to create a bootable USB stick on Ubuntu | Ubuntu](https://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
-
-[How To Backup Ubuntu Files And Folders](https://www.lifewire.com/backup-ubuntu-4126286)
-
 [38 Things To Do After Installing Ubuntu 16.10](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+
+[How to use manual partitioning during installation? - Ask Ubuntu](https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/343370#343370)
+
+[How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
 
 ## People
@@ -442,6 +372,8 @@
 
 [Thunderbird and Gmail | Thunderbird Help](https://support.mozilla.org/en-US/kb/thunderbird-and-gmail)
 
+[Use your custom email domain with Gmail and GoDaddy for FREE.](https://medium.com/@kevinmonahan/use-your-custom-email-domain-with-gmail-and-godaddy-for-free-84ea8c5ea4ed)
+
 
 ## Git
 
@@ -449,15 +381,13 @@
 
 [Git - Book](https://git-scm.com/book/en/v2)
 
-[How to fork your own repo on Github – Today I Learned… in Code](http://www.tilcode.com/fork-your-own-repo-on-github/)
-
 [How To Use Git Effectively | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
 
 [Fetching a remote - User Documentation](https://help.github.com/articles/fetching-a-remote/)
 
 [How To Make Git Ask You SSH Key Passphrases Just Once](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 
-[Git - Book](https://git-scm.com/book/en/v2)
+[How To Set Up Automatic Deployment with Git with a VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
 
 
 ## HTML
@@ -465,8 +395,6 @@
 [MediaElement.js - HTML5 video and audio unification framework](http://www.mediaelementjs.com/)
 
 [The W3C Markup Validation Service](https://validator.w3.org/)
-
-[How to Style Web Forms](https://www.sitepoint.com/style-web-forms-css/)
 
 [The Truth About Multiple H1 Tags in the HTML5 Era](https://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824)
 
@@ -477,6 +405,8 @@
 [URL Encode Decode - URL Percent Encoding and Decoding.](http://www.url-encode-decode.com/)
 
 [MediaElement.js - HTML5 video and audio unification framework](http://www.mediaelementjs.com/)
+
+[How do I put up a simple, static website? | DigitalOcean](https://www.digitalocean.com/community/questions/how-do-i-put-up-a-simple-static-website)
 
 
 ## Hugo
@@ -491,6 +421,10 @@
 [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 [Building a simple REST API with Python and Flask - Onejohi - Medium](https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699)
+
+[Python3 Tutorial: Dictionaries](https://www.python-course.eu/python3_dictionaries.php)
+
+[How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04)
 
 
 ## Terminal
@@ -511,8 +445,6 @@
 
 [How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
-[How to Set Up Command Aliases in Linux/Ubuntu/Debian - HostingAdvice.com](http://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/)
-
 [Logging In to a Remote System to Copy a File (sftp) - Managing Remote Systems in Oracle Solaris 11.1](https://docs.oracle.com/cd/E26502_01/html/E29001/remotehowtoaccess-14.html)
 
 [How To Create Shortcut Commands in the Terminal for your Mac!](https://codeburst.io/how-to-create-shortcut-commands-in-the-terminal-for-your-mac-9e016e25e4d7)
@@ -520,10 +452,6 @@
 [Tweet Directly from Ubuntu Terminal through Rainbow Stream](https://vitux.com/tweet-directly-from-your-terminal-through-rainbow-stream/)
 
 [Export PGP keys](https://help.gnome.org/users/seahorse/stable/pgp-export.html.en)
-
-[101 Bash Commands and Tips for Beginners to Experts - DEV Community 👩‍💻👨‍💻](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
-
-[Getting to Know the Command Line | David Baumgold](https://www.davidbaumgold.com/tutorials/command-line/)
 
 [How to Set Up Command Aliases in Linux/Ubuntu/Debian - HostingAdvice.com](http://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/)
 
@@ -544,8 +472,6 @@
 
 [Documentation for Visual Studio Code](https://code.visualstudio.com/docs?start=true)
 
-[Vim Cheat Sheet - English](http://vim.rtorr.com/)
-
 [Pandoc - Demos](https://pandoc.org/demos.html)
 
 [keyboard-shortcuts-linux.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
@@ -561,7 +487,7 @@
 
 [Export PGP keys](https://help.gnome.org/users/seahorse/stable/pgp-export.html.en)
 
-[(92) Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
+[Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
 
 [GnuPG leaflet](https://download.fsfe.org/advocacy/promomaterial/Email-self-defense/gnupg-leaflet.en.pdf)
 
@@ -593,10 +519,6 @@
 
 [Revoking a GPG key :: Hackdiary](https://www.hackdiary.com/2004/01/18/revoking-a-gpg-key/)
 
-[Beginners’ Guide To PGP » Bitcoin Not Bombs](http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/)
-
-[SSH Keys Primer](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
-
 [| p≡p Security](https://www.pep.security/en/about-us/index.html)
 
 [How To Set Up Thunderbird with Enigmail](https://blogs.itemis.com/en/openpgp-on-the-job-part-5-thunderbird-enigmail)
@@ -608,6 +530,14 @@
 [Gnu Privacy Guard (GnuPG) Mini Howto (English): Using keys](https://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-3.html)
 
 [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
+
+[Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
+
+[How to add additional email addresses to your GPG identity (and a face pic) | Kate's Comment](https://www.katescomment.com/how-to-add-additional-email-addresses-to-your-gpg-identity/)
+
+[How To Set Up Let's Encrypt with Nginx Server Blocks on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
+
+[How HTTPS Works: The Basics of Internet Security and Privacy](https://strongarm.io/blog/how-https-works/)
 
 
 ## Hosting
@@ -638,10 +568,6 @@
 
 [How to Upload an SSH Public Key to an Existing Droplet :: DigitalOcean Product Documentation](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/to-existing-droplet/)
 
-[Custom domains on GitHub Pages gain support for HTTPS - The GitHub Blog](https://github.blog/2018-05-01-github-pages-custom-domains-https/)
-
-[Use your custom email domain with Gmail and GoDaddy for FREE.](https://medium.com/@kevinmonahan/use-your-custom-email-domain-with-gmail-and-godaddy-for-free-84ea8c5ea4ed)
-
 [How To Install Nginx on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
 
 [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
@@ -654,13 +580,23 @@
 
 [Intro To The Node.js PayPal REST SDK - YouTube](https://m.youtube.com/watch?v=7k03jobKGXM)
 
-[How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 14.04 LTS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts)
-
 [How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
 
 [Certbot - Ubuntuxenial Nginx](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx)
 
-[How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
+[How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
+
+[How to Host a Node.js App on Digital Ocean ― Scotch](https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean)
+
+[How to Host a Node.js App on Digital Ocean ― Scotch](https://stackoverflow.com/questions/26863945/forever-for-nodejs-not-working-in-ubuntu-server)
+
+[Deploying a Node.js App to DigitalOcean with SSL](https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/)
+
+[Redirect www traffic to non www with ubuntu and nginx](https://medium.com/@kandros/redirect-www-traffic-to-non-www-with-ubuntu-and-nginx-9f05281ef944)
+
+[How To Add, Delete, and Grant Sudo Privileges to Users on a Debian VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-delete-and-grant-sudo-privileges-to-users-on-a-debian-vps)
+
+[Park a domain registered with GoDaddy | Domains - GoDaddy Help US](https://www.godaddy.com/help/park-a-domain-registered-with-godaddy-23936)
 
 
 ## Markdown
