@@ -18,8 +18,6 @@
 
 [Deploy to `gh-pages` from a `dist` folder on the master branch. Useful for use with [yeoman](http://yeoman.io). · GitHub](https://gist.github.com/cobyism/4730490)
 
-[How to fork your own repo on Github – Today I Learned… in Code](http://www.tilcode.com/fork-your-own-repo-on-github/)
-
 
 ## C
 
@@ -58,6 +56,8 @@
 
 [domschiener/smart-plant-raspberry: Raspberry Pi Moisture Sensor with Panel](https://github.com/domschiener/smart-plant-raspberry)
 
+[How to Build a Low-tech Website? - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
+
 [your data | data.sivers.org](https://data.sivers.org/)
 
 
@@ -76,15 +76,11 @@
 
 [CSS · Bootstrap](http://getbootstrap.com/css/)
 
-[The Personal Page — A free, simple, one-page website to identify yourself to the world.](http://thepersonalpage.me/)
-
 [Agency - One Page Bootstrap Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
 
 [Website Templates & Themes from ThemeForest](https://themeforest.net/)
 
 [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/#settings)
-
-[Hugo Themes | Agency](https://themes.gohugo.io/agency/)
 
 [Normalize.css: Make browsers render all elements more consistently.](http://necolas.github.io/normalize.css/)
 
@@ -95,8 +91,6 @@
 [Font Awesome, the iconic font and CSS toolkit](http://fontawesome.io/)
 
 [Font Mfizz - Vector Icons for Technology and Software Geeks](http://fizzed.com/oss/font-mfizz)
-
-[Hugo Themes | Portfolio](https://themes.gohugo.io/tags/portfolio/)
 
 [How to Style Web Forms](https://www.sitepoint.com/style-web-forms-css/)
 
@@ -118,8 +112,6 @@
 
 [Javascript Quick Reference Card](http://www.cheat-sheets.org/saved-copy/jsquick.pdf)
 
-[Eloquent_JavaScript.pdf](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-
 [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes ― Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
 
 [Class inheritance, super](https://javascript.info/class-inheritance)
@@ -140,13 +132,9 @@
 
 [JSONLint - The JSON Validator.](http://jsonlint.com/)
 
-[Because technology changes, Ironhack welcomes JavaScript | Ironhack Blog](http://blog.ironhack.com/technology-changes-ironhack-welcomes-javascript/)
-
 [JavaScript is the first programming language you should learn](https://skillcrush.com/2014/04/10/learn-javascript/)
 
 [Gulp for Beginners | CSS-Tricks](https://css-tricks.com/gulp-for-beginners/)
-
-[Requiring modules in Node.js: Everything you need to know](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
 
 [Understanding Syntax and Code Structure in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
@@ -156,53 +144,26 @@
 
 [Modern JS with ES6](https://www.slideshare.net/KevinLangleyJr/modern-js-with-es6)
 
-[GitHub - aurelkurtula/basic-express-js-setup: Project supporting the tutorial](https://github.com/aurelkurtula/basic-express-js-setup)
-
-[Creating a basic website with Express.js](https://dev.to/aurelkurtula/creating-a-basic-website-with-expressjs-j92)
-
-[Node.js Express Examples: Rendered, REST, and Static Websites](http://stackabuse.com/node-js-express-examples-rendered-rest-and-static-websites/)
-
-[Paypal integration using node.js | part 2 | node.js | nodejsera](https://www.nodejsera.com/paypal-payment-integration-using-nodejs-part2.html)
-
-[The Basics of Package.json in Node.js and npm - NodeSource](https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/)
-
 [ES6 in Action: Enhanced Object Literals — SitePoint](https://www.sitepoint.com/es6-enhanced-object-literals/)
-
-[Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
 
 [Ride Down Into JavaScript Dependency Hell | AppSignal Blog](https://blog.appsignal.com/2020/04/09/ride-down-the-javascript-dependency-hell.html)
 
 [How to Build a Portfolio Site Using Vue and Cosmic JS](https://hackernoon.com/how-to-build-portfolio-site-using-vue-and-cosmic-js-5832bce7e7dc)
 
-[How to build and deploy static websites using NodeJS & Metalsmith – Node Web Apps](http://nodewebapps.com/2017/01/15/how-to-build-and-deploy-static-websites-using-metalsmith/)
-
-[Enough Node for Building a Simple Website](http://ericsowell.com/blog/2014/6/17/enough-node-for-building-a-simple-website)
-
-[How to Host a Node.js App on Digital Ocean ― Scotch](https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean)
-
 [GitHub - expalmer/blog-example-with-metalsmith: A example blog build with metalsmith](https://github.com/expalmer/blog-example-with-metalsmith)
 
-[How to Host a Node.js App on Digital Ocean ― Scotch](https://stackoverflow.com/questions/26863945/forever-for-nodejs-not-working-in-ubuntu-server)
-
-[What is the difference between window, screen, and document in Javascript? - Stack Overflow](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
-
-[Building a Website with Node.js and Express.js](https://www.lynda.com/Express-js-tutorials/Building-Website-Node-js-Express-js/502310-2.html#tab)
-
 [ThatSoftwareDude.com - Coding Tic Tac Toe In JavaScript](http://www.thatsoftwaredude.com/content/6189/coding-tic-tac-toe-in-javascript)
-
-[Deploying a Node.js App to DigitalOcean with SSL](https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/)
-
-[Creating a basic site with Node.js and Express | George Ornbo](https://shapeshed.com/creating-a-basic-site-with-node-and-express/#what-we-are-going-to-do)
 
 [javascript - Tic Tac Toe - Object Oriented JS Implementation - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/183085/tic-tac-toe-object-oriented-js-implementation)
 
 [Quick Tip: Get URL Parameters with JavaScript — SitePoint](https://www.sitepoint.com/get-url-parameters-with-javascript/)
 
-[Enough Node for Building a Simple Website](http://ericsowell.com/blog/2014/6/17/enough-node-for-building-a-simple-website)
-
 [What is the difference between window, screen, and document in Javascript? - Stack Overflow](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
 
 [ES6 in Action: Enhanced Object Literals — SitePoint](https://www.sitepoint.com/es6-enhanced-object-literals/)
+
+
+## NodeJS
 
 [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
 
@@ -213,6 +174,23 @@
 [Building a Website with Node.js and Express.js](https://www.lynda.com/Express-js-tutorials/Building-Website-Node-js-Express-js/502310-2.html#tab)
 
 [Creating a basic site with Node.js and Express | George Ornbo](https://shapeshed.com/creating-a-basic-site-with-node-and-express/#what-we-are-going-to-do)
+
+[Enough Node for Building a Simple Website](http://ericsowell.com/blog/2014/6/17/enough-node-for-building-a-simple-website)
+
+[How to Host a Node.js App on Digital Ocean ― Scotch](https://stackoverflow.com/questions/26863945/forever-for-nodejs-not-working-in-ubuntu-server)
+
+[How to build and deploy static websites using NodeJS & Metalsmith – Node Web Apps](http://nodewebapps.com/2017/01/15/how-to-build-and-deploy-static-websites-using-metalsmith/)
+
+[Paypal integration using node.js | part 2 | node.js | nodejsera](https://www.nodejsera.com/paypal-payment-integration-using-nodejs-part2.html)
+
+[Creating a basic website with Express.js](https://dev.to/aurelkurtula/creating-a-basic-website-with-expressjs-j92)
+
+[Node.js Express Examples: Rendered, REST, and Static Websites](http://stackabuse.com/node-js-express-examples-rendered-rest-and-static-websites/)
+
+[GitHub - aurelkurtula/basic-express-js-setup: Project supporting the tutorial](https://github.com/aurelkurtula/basic-express-js-setup)
+
+[Requiring modules in Node.js: Everything you need to know](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
+
 
 
 ## jQuery
@@ -273,15 +251,7 @@
 
 [Complete Intro to React](https://btholt.github.io/complete-intro-to-react/react-router/)
 
-[Getting Started with React: A Beginner's Guide — SitePoint](https://www.sitepoint.com/getting-started-react-beginners-guide/)
-
-[Veggy - React Shopping Cart Demo](https://sivadass.github.io/react-shopping-cart/)
-
 [Deployment](https://create-react-app.dev/docs/deployment/#github-pages)
-
-[React Autosuggest](http://react-autosuggest.js.org/)
-
-[GitHub - facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
 
 [React updating state in two input fields from form submission - Stack Overflow](https://stackoverflow.com/questions/41030025/react-updating-state-in-two-input-fields-from-form-submission)
 
@@ -324,7 +294,7 @@
 
 [How to use manual partitioning during installation? - Ask Ubuntu](https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/343370#343370)
 
-[How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
+[How To Create a Sudo User on Ubuntu Quickstart | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
 
 ## People
@@ -334,8 +304,6 @@
 [Run Your Own Website - Zac J. Szewczyk](https://zacs.site/blog/own-your-platform.html)
 
 [Blogroll](https://www.notechmagazine.com/2010/03/blogroll.html)
-
-[How to Build a Low-tech Website? - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
 
 [About](https://charleseisenstein.org/about/)
 
@@ -398,7 +366,7 @@
 
 [The Truth About Multiple H1 Tags in the HTML5 Era](https://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824)
 
-[» Absolute, Relative, and Root-relative URLs » IfYouCodeItTheyWill.com](http://ifyoucodeittheywill.com/2009/03/absolute-relative-and-root-relative-urls/)
+[Absolute, Relative, and Root-relative URLs » IfYouCodeItTheyWill.com](http://ifyoucodeittheywill.com/2009/03/absolute-relative-and-root-relative-urls/)
 
 [Relative URLs | WebReference](http://www.webreference.com/html/tutorial2/3.html)
 
@@ -439,11 +407,7 @@
 
 [Getting to Know the Command Line | David Baumgold](https://www.davidbaumgold.com/tutorials/command-line/)
 
-[How to add an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
-
 [How To Add, Delete, and Grant Sudo Privileges to Users on a Debian VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-delete-and-grant-sudo-privileges-to-users-on-a-debian-vps)
-
-[How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
 [Logging In to a Remote System to Copy a File (sftp) - Managing Remote Systems in Oracle Solaris 11.1](https://docs.oracle.com/cd/E26502_01/html/E29001/remotehowtoaccess-14.html)
 
@@ -468,8 +432,6 @@
 
 [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](http://dillinger.io/)
 
-[38 Things To Do After Installing Ubuntu 16.10](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-
 [Documentation for Visual Studio Code](https://code.visualstudio.com/docs?start=true)
 
 [Pandoc - Demos](https://pandoc.org/demos.html)
@@ -487,11 +449,7 @@
 
 [Export PGP keys](https://help.gnome.org/users/seahorse/stable/pgp-export.html.en)
 
-[Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
-
 [GnuPG leaflet](https://download.fsfe.org/advocacy/promomaterial/Email-self-defense/gnupg-leaflet.en.pdf)
-
-[Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 
 [https://emailselfdefense.fsf.org/en/index.html](https://emailselfdefense.fsf.org/en/index.html)
 
@@ -525,15 +483,11 @@
 
 [https://emailselfdefense.fsf.org/en/index.html](https://emailselfdefense.fsf.org/en/index.html)
 
-[PGP Tutorial for Beginners to PGP](https://www.pitt.edu/~poole/accessiblePGP703.htm)
-
 [Gnu Privacy Guard (GnuPG) Mini Howto (English): Using keys](https://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-3.html)
 
 [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 
 [Adding SSL Certificate (Let's Encrypt) with Digital Ocean - LAMP - YouTube](https://www.youtube.com/watch?v=UpAEe9z00es)
-
-[How to add additional email addresses to your GPG identity (and a face pic) | Kate's Comment](https://www.katescomment.com/how-to-add-additional-email-addresses-to-your-gpg-identity/)
 
 [How To Set Up Let's Encrypt with Nginx Server Blocks on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-let-s-encrypt-with-nginx-server-blocks-on-ubuntu-16-04)
 
@@ -576,15 +530,9 @@
 
 [Node app deploy with nginx & SSL](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
 
-[YouTube](https://m.youtube.com/watch?feature=youtu.be&v=oykl1Ih9pMg)
-
 [Intro To The Node.js PayPal REST SDK - YouTube](https://m.youtube.com/watch?v=7k03jobKGXM)
 
-[How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
-
 [Certbot - Ubuntuxenial Nginx](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx)
-
-[How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 
 [How to Host a Node.js App on Digital Ocean ― Scotch](https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean)
 
@@ -606,7 +554,7 @@
 [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](http://dillinger.io/)
 
 
-## WebDev
+## CSS
 
 [CSS Specificity](http://cssspecificity.com/#)
 
@@ -618,14 +566,8 @@
 
 [CSS Diner - Where we feast on CSS Selectors!](http://flukeout.github.io/)
 
-[general | webdevcohort2 Slack](https://webdevcohort2.slack.com/messages/general/)
-
-[https://www.coursera.org](https://www.coursera.org/)
-
 [Complex Selectors - Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 
 [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
 [A Visual Guide to CSS3 Flexbox Properties | Scotch](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-
-
